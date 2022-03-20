@@ -1,0 +1,154 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Century Gothic";
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    background-color: #9b59b6;
+}
+
+.card{
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: #f1f1f1;
+    transform: translate(-50%,-50%);
+    overflow: hidden;
+    box-shadow: 0px 0px 20px #000000b3;
+}
+
+.card-header{
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+}
+
+.card-header img{
+    height: 100%;
+
+}
+.cover{
+    opacity: 0;
+    background: #9b59b6b3;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+
+}
+.name{
+    padding: 3px;
+    text-align: center;
+}
+.text{
+    display: flex;
+}
+.para{
+    padding: 10px;
+}
+.icon{
+    padding: 0 30px;
+
+}
+.logo-fb{
+    padding: 3%;
+    width:2em;
+    height: auto;
+}
+.fb{
+    padding-top: 100%;
+    padding-bottom: 200%;
+}
+
+.btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    background-color: black;
+    width: 80%;
+    height: 25%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
